@@ -1,3 +1,3 @@
 # typescript-counter
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/typescript-x6r28p)
+[Create with StackBlitz ⚡️](https://typescript-x6r28p.stackblitz.io)
